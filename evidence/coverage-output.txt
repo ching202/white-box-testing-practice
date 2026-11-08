@@ -1,0 +1,13 @@
+npm notice run todo-app@0.0.0 coverage
+npm notice run jest --runInBand --coverage --verbose
+--------------|---------|----------|---------|---------|-------------------
+File          | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s
+--------------|---------|----------|---------|---------|-------------------
+All files     |     100 |      100 |     100 |     100 |
+ todoUtils.ts |     100 |      100 |     100 |     100 |
+--------------|---------|----------|---------|---------|-------------------
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        10.496 s
+Ran all test suites.

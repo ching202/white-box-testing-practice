@@ -1,0 +1,2 @@
+npm notice run todo-app@0.0.0 typecheck:tests
+npm notice run tsc -p tsconfig.test.json --noEmit
